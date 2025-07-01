@@ -62,7 +62,7 @@ Sou iniciante na área de tecnologia e estudo Análise e Desenvolvimento de Sist
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunazanato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
